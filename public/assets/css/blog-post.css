@@ -1,0 +1,46 @@
+ul.ul_blog
+{
+    padding: 0 15px;
+
+}
+
+ul.ul_blog li
+{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+ul.ul_blog li a
+{
+    text-decoration: none;
+    font-size: 1.3em !important;
+}
+
+h2,
+h3
+{
+    margin-left: 30px;
+}
+
+h2 span,
+h3 span
+{
+    color: #f50404;
+    text-transform: uppercase;
+}
+.mini-font
+{
+    font-size: 0.7em;
+    font-weight: normal;
+}
+
+.font-date
+{
+    color: #063159;
+    font-weight: bold;
+}
+.up
+{
+    position: relative;
+    top: -2px;
+}
